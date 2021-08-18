@@ -1,0 +1,38 @@
+body{
+  text-align: center;
+  background: linear-gradient (#C3DCFF;)
+ background-repeat:no-repeat;
+}
+
+img{
+  border-radius:50px;
+  width:100px;
+}
+
+h1{
+  text-shadow: 2px 2px #C3DCFF
+    font-size:20px;
+}
+
+p{
+  font-size:18px;
+color:#F08A99  
+}
+
+.menu {
+    font-family: sans-serif;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    background: white;
+    margin-top: 0;
+}
+
+.links {
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+}
